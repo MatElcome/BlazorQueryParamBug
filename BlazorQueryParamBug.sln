@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorQueryParamBug", "BlazorQueryParamBug.csproj", "{809F0A25-F144-454C-B764-BD55E0B4D2AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{809F0A25-F144-454C-B764-BD55E0B4D2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{809F0A25-F144-454C-B764-BD55E0B4D2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{809F0A25-F144-454C-B764-BD55E0B4D2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{809F0A25-F144-454C-B764-BD55E0B4D2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E38691A3-3793-4871-8B44-617952551CB6}
+	EndGlobalSection
+EndGlobal
